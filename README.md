@@ -32,8 +32,6 @@ Make sure you have the following installed:
 
     bash
 
-    Copier le code
-
     `git clone https://github.com/daganx/pomodoro-app.git
     cd pomodoro-app`
 
@@ -43,15 +41,11 @@ Make sure you have the following installed:
 
     bash
 
-    Copier le code
-
     `npm install`
 
     Or if you use `yarn`:
 
     bash
-
-    Copier le code
 
     `yarn install`
 
@@ -61,15 +55,11 @@ Make sure you have the following installed:
 
     bash
 
-    Copier le code
-
     `npm start`
 
     Or if you use `yarn`:
 
     bash
-
-    Copier le code
 
     `yarn start`
 
