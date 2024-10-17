@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 function Timer() {
   const WORK_TIME = 25 * 60;
   const SHORT_BREAK_TIME = 5 * 60;
-  const LONG_BREAK_TIME = 10 * 60;
+  const LONG_BREAK_TIME = 15 * 60;
 
   const [timeLeft, setTimeLeft] = useState(WORK_TIME);
   const [isRunning, setIsRunning] = useState(false);
