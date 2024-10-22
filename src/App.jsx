@@ -1,4 +1,5 @@
-import Timer from "./components/timer/Timer";
+import Timer from "./components/Timer/Timer";
+import "./index.css";
 
 function App() {
   return (

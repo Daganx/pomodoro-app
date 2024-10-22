@@ -1,5 +1,14 @@
+@font-face {
+  font-family: "ForestRegular";
+  src: url("./assets/fonts/forestRegular.otf");
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(5, 5, 5);
 }
